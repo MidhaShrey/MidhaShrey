@@ -109,4 +109,5 @@ My name is Shrey Midha,I am currently a 3rd year B.Tech Computer Science and Eng
 <br/>
 </br>
 
-<img align="" height='150px' src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dracula&column=4&margin-w=45&margin-h=20">
+# Trophies
+<img align="" height='150px' src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dracula&column=4&margin-w=20&margin-h=20">
