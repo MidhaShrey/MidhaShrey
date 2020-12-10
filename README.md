@@ -88,7 +88,7 @@ My name is Shrey Midha,I am currently a 3rd year B.Tech Computer Science and Eng
 <a href="https://www.linkedin.com/in/shrey-midha/"  target="_shrey">
   <img align="left" alt="Linkedin Icon" height="35" src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Linkedin.svg" />
 </a>
-<a href="https://www.twitter.com/imyogeshgaur/"  target="_yogesh">
+<a href="https://www.twitter.com/MidhaShrey/"  target="_yogesh">
   <img align="left" alt="Twitter Icon" height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/twitter/twitter.png" />
 </a>
 <a href='https://medium.com/@shreymidha
