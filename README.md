@@ -60,7 +60,7 @@ My name is Shrey Midha,I am currently a 3rd year B.Tech Computer Science and Eng
     <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">
 </a></code>
 
-## Other Skills 
+## Other Skills  &nbsp;&nbsp; <img height="23" src="https://media.giphy.com/media/ccRrcecpw9PaM/giphy.gif">
 <code><a href="https://code.visualstudio.com/docs">
     <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png">
 </a></code>
