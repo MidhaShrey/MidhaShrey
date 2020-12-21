@@ -1,6 +1,6 @@
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
-# Hello Everyone 👋
+# Hello Everyone <img height="60" src="https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif">
 
 My name is Shrey Midha,I am currently a 3rd year B.Tech Computer Science and Engineering student, and currently working on my startup <a href="https://aztecs-india.ueniweb.com/?utm_campaign=gmb" target="_shrey"> Aztecs India </a>.My job is to develop Robust,resposnsive and interactive Web and Mobile Apps that will help you in growing your business. I have 4 years of experience in C++, 1 year in Python and 4 Months in flutter developments, beside this I am trying to learn data science as a side hustle and my current focus is to do some contribution in the data science field.
 
