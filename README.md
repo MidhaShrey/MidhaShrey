@@ -1,3 +1,8 @@
+[![Linkedin Badge](https://img.shields.io/badge/-ShreyMidha-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/shrey-midha)](https://www.linkedin.com/in/shrey-midha/)
+[![Twitter Badge](https://img.shields.io/badge/-@MidhaShrey-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/MidhaShrey)](https://twitter.com/MidhaShrey)
+[![Gmail Badge](https://img.shields.io/badge/-GMail-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:midhashrey@gmail.com)](mailto:midhashrey@gmail.com)
+![](https://visitor-badge.glitch.me/badge?page_id=MidhaShrey.MidhaShrey)
+<!--[![Medium Badge](https://img.shields.io/badge/-@raghav.dhingra15-03a57a?style=social&labelColor=black&logo=Medium&link=https://medium.com/@raghav.dhingra15)](https://medium.com/@raghav.dhingra15)-->
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 # Hello Everyone <img height="60" src="https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif">
