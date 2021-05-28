@@ -113,4 +113,3 @@ My name is Shrey Midha,I am currently a 3rd year B.Tech Computer Science and Eng
 </br>
 <img align="" height='130px' src="https://github-readme-stats.vercel.app/api?username=MidhaShrey&hide_title=true&show_icons=true&show=stars,issues&count_private=true&include_all_commits=true&line_height=21&bg_color=000&theme=radical&text_color=C300FF&icon_color=3D33FF">
 <br/>
-## Most Used Languages
