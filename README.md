@@ -113,7 +113,8 @@ My name is Shrey Midha,I am currently a 3rd year B.Tech Computer Science and Eng
 </br>
 <img align="" height='130px' src="https://github-readme-stats.vercel.app/api?username=MidhaShrey&hide_title=true&show_icons=true&show=stars,issues&count_private=true&include_all_commits=true&line_height=21&bg_color=000&theme=radical&text_color=C300FF&icon_color=3D33FF">
 <br/>
-
+# Most Used Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ## Trophies
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MidhaShrey&theme=dracula&row=1&column=10" alt="rohitsinghkcodes" /></a> </p>
