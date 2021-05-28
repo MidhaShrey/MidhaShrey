@@ -115,5 +115,3 @@ My name is Shrey Midha,I am currently a 3rd year B.Tech Computer Science and Eng
 <br/>
 # Most Used Languages
 <br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MidhaShrey&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-<br/>
