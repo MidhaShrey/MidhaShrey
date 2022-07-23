@@ -7,7 +7,7 @@
 
 # Hello Everyone <img height="60" src="https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif">
 
-Hey Everyone I am Shrey Midha,a final year B.Tech Computer Science and Engineering student, and currently working on my startup <a href="https://aztecs-india.ueniweb.com/?utm_campaign=gmb" target="_shrey"> Aztecs India </a>.My job is to develop Robust,resposnsive and interactive Web and Mobile Apps that will help you in growing your business. I have 4 years of experience in C++, 1 year in Python and 4 Months in flutter developments, beside this I am trying to learn Cyber Security as a side hustle and my current focus is to do some contribution in the Cyber Security Domain.
+Hey Everyone I am Shrey Midha,B.Tech Computer Science and Engineering Graduate, and currently working on my Community "Bug Slayers".My job is to develop Robust,resposnsive and interactive Web and Mobile Apps that will help you in growing your business. I have 4+ years of experience in C++, 2+ years in Python  beside this I am trying to learn Cyber Security as a side hustle and my current focus is to do some contribution in the Cyber Security Domain.
 
 <br/>
 <br/>
