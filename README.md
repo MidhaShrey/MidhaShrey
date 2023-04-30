@@ -112,4 +112,15 @@ Hey Everyone I am Shrey Midha,B.Tech Computer Science and Engineering Graduate, 
 # Github Stats <img height="45px" src="https://media.giphy.com/media/fapvHdWzoHtYY/giphy.gif">
 </br>
 <img align="" height='130px' src="https://github-readme-stats.vercel.app/api?username=MidhaShrey&hide_title=true&show_icons=true&show=stars,issues&count_private=true&include_all_commits=true&line_height=21&bg_color=000&theme=radical&text_color=C300FF&icon_color=3D33FF">
-<br/>
+<br><br>
+
+
+![trophy](https://github-profile-trophy.vercel.app/?username=imyogeshgaur&theme=monokai&title=MultiLanguage,Follower,Issues,Issues)
+
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=imyogeshgaur&theme=dark">
+
+# Enjoy the Game 
+![snake gif](https://github.com/imyogeshgaur/imyogeshgaur/blob/output/github-contribution-grid-snake.svg)
+
