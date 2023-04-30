@@ -119,7 +119,7 @@ Hey Everyone I am Shrey Midha,B.Tech Computer Science and Engineering Graduate, 
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=imyogeshgaur&theme=dark">
+<!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=imyogeshgaur&theme=dark"> -->
 
 # Enjoy the Game 
 ![snake gif](https://github.com/imyogeshgaur/imyogeshgaur/blob/output/github-contribution-grid-snake.svg)
