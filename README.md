@@ -1,4 +1,4 @@
-[![Linkedin Badge](https://img.shields.io/badge/-ShreyMidha-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/shrey-midha)](https://www.linkedin.com/in/shrey-midha/)
+[![Linkedin Badge](https://img.shields.io/badge/-ShreyMidha-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/midhashrey)](https://www.linkedin.com/in/midhashrey/)
 [![Twitter Badge](https://img.shields.io/badge/-@MidhaShrey-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/MidhaShrey)](https://twitter.com/MidhaShrey)
 [![Gmail Badge](https://img.shields.io/badge/-GMail-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:midhashrey@gmail.com)](mailto:midhashrey@gmail.com)
 ![](https://visitor-badge.glitch.me/badge?page_id=MidhaShrey.MidhaShrey)
