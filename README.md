@@ -1,4 +1,3 @@
-
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6A38F7&center=true&vCenter=true&width=600&lines=Hey+There!+I'm+Shrey+Midha+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%9A%80;;Cyber+Security+Enthusiast+%F0%9F%94%90" alt="Typing SVG" />
@@ -8,10 +7,11 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?color=62F7F3&size=27&lines=System.out.println(Let's Connect);">
+    <img src="https://readme-typing-svg.herokuapp.com?color=62F7F3&size=25&lines=System.out.println(Anonymous);">
   </a>
 </h1>
 <br/>
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/midhashrey/">
