@@ -1,25 +1,22 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?color=62F7F3&size=28&lines=Hey+There!+👋;I'm+Shrey+Midha;Full+Stack+Developer;Bug+Slayers+Community;">
+    <img src="https://readme-typing-svg.herokuapp.com?color=62F7F3&size=25&lines=Hey+There!+👋;I'm+Shrey+Midha;Full+Stack+Developer;Bug+Slayers+Community;">
   </a>
 </h1>
 <br/>
 <img align="right" alt="Coding GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="420" height="280" />
-### 👨‍💻 About Me
-* 🔭 I'm currently working as Developer
-* 🌱 I'm currently learning **Cyber Security**
-* 👯 I'm looking to collaborate on **Web & Mobile App Projects**
-* 💼 **B.Tech CSE Graduate** | Full Stack Developer
-* 🛡️ Exploring **Cyber Security** as a domain
-* 😄 Pronouns: **He/Him/His**
-* ⚡ Fun fact: **Think Twice Before You Code**
+* 🔭 𝙸'𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 <b>Bug Slayers Community</b><br>
+* 🌱 𝙸'𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 <b?Cyber Security<b><br>
+* 👯 𝙸'𝚖 𝚕𝚘𝚘𝚔𝚒𝚗𝚐 𝚝𝚘 𝚌𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚎 𝚘𝚗 <b>Web App & DevSecOps Projects</b><br>
+* 💼 <b>B.Tech (Hons.) CSE Graduate</b>| Full Stack Developer<br>
+* 🛡️ Exploring <b>Cyber Security</b> as a domain<br>
+* 😄 𝙿𝚛𝚘𝚗𝚘𝚞𝚗𝚜 : <b>𝙷𝚎/𝙷𝚒𝚖</b><br>
+* ⚡ 𝙵𝚞𝚗 𝚏𝚊𝚌𝚝 : <b>Think Twice Before Code</b>
 
 <br/>
 <br/>
-<br/>
----
 <p align="center">
-  <img alt="profile views" src="https://komarev.com/ghpvc/?username=MidhaShrey&style=flat&color=brightgreen"> •
+  <img alt="profile views" src="https://komarev.com/ghpvc/?username=MidhaShrey&style=flat&color=red"> •
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/MidhaShrey?label=Followers&style=social"> •
   <img src="https://img.shields.io/github/stars/MidhaShrey?label=Stars" alt="Total Stars">
 </p>
@@ -34,70 +31,74 @@
     <img src="https://img.shields.io/badge/-GMail-c14438?style=flat&logo=Gmail&logoColor=white" />
   </a>
 </p>
----
-## 🔥 GitHub Streak
-
 <p align="center">
-  <a href="https://github.com/MidhaShrey">
-    <img title="🔥 Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=MidhaShrey&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-  </a>
-</p>
----
-## 🛠️ Languages & Tools
-
-**Languages**
-
-`<a href="https://www.cplusplus.com/"><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" title="C++">``</a>`
-`<a href="https://www.python.org/doc/"><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" title="Python">``</a>`
-`<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" title="JavaScript">``</a>`
-`<a href="https://dart.dev/guides"><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png" title="Dart">``</a>`
-
-**Frontend**
-
-`<a href="https://www.w3schools.com/html/"><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" title="HTML">``</a>`
-`<a href="https://sass-lang.com/documentation"><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" title="SASS">``</a>`
-`<a href="https://reactjs.org/"><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" title="React">``</a>`
-`<a href="https://flutter.dev/"><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" title="Flutter">``</a>`
-`<a href="https://getbootstrap.com/"><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" title="Bootstrap">``</a>`
-
-**Backend & Databases**
-
-`<a href="https://nodejs.org/en/docs/"><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" title="Node.js">``</a>`
-`<a href="https://docs.djangoproject.com/en/3.1/"><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" title="Django">``</a>`
-`<a href="https://docs.mongodb.com/"><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" title="MongoDB">``</a>`
-`<a href="https://firebase.google.com/docs"><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" title="Firebase">``</a>`
-`<a href="https://docs.oracle.com/cd/E17952_01/index.html"><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" title="MySQL">``</a>`
-
-**Other Tools**
-
-`<a href="https://code.visualstudio.com/docs"><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" title="VS Code">``</a>`
-`<a href="https://git-scm.com/docs"><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" title="Git">``</a>`
-`<a href="https://docs.docker.com/"><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" title="Docker">``</a>`
-`<a href="https://jupyter.org/documentation"><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png" title="Jupyter">``</a>`
-`<a href="https://learning.postman.com/docs/getting-started/introduction/"><img height="35" src="https://user-images.githubusercontent.com/2676579/34940598-17cc20f0-f9be-11e7-8c6d-f0190d502d64.png" title="Postman">``</a>`
-
----
-
-## 📊 GitHub Stats
-
-<p align="left">
-  <a href="https://github.com/MidhaShrey">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=MidhaShrey&show_icons=true&hide_border=true&title_color=62F7F3&icon_color=3D33FF&text_color=FFFFFF&bg_color=000000&count_private=true&include_all_commits=true"/>
-  </a>
-  <a href="https://github.com/MidhaShrey">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MidhaShrey&text_color=FFFFFF&bg_color=000000&title_color=62F7F3&langs_count=10&layout=compact&hide_border=true" />
+  <a href="https://github.com/MidhaShrey/github-readme-streak-stats">
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="MidhaShrey streak" src="https://github-readme-streak-stats.herokuapp.com/?user=MidhaShrey&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
   </a>
 </p>
 <br/>
-![trophy](https://github-profile-trophy.vercel.app/?username=MidhaShrey&theme=monokai&title=MultiLanguage,Follower,Stars,Commits)
----
+**𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴𝚂 𝙰𝙽𝙳 𝚃𝙾𝙾𝙻𝚂:**
+<br/>
 
-## 🐍 GitHub Contribution
+**Languages**
 
+`<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" title="C++">``</code>`
+`<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" title="Python">``</code>`
+`<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" title="JavaScript">``</code>`
+`<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png" title="Dart">``</code>`
+
+**Front End**
+
+<a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="html" width="40" height="40"/> </a>
+<a href="https://sass-lang.com/documentation" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" alt="sass" width="40" height="40"/> </a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react" width="40" height="40"/> </a>
+<a href="https://flutter.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" alt="flutter" width="40" height="40"/> </a>
+<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="bootstrap" width="40" height="40"/> </a>
+
+**Back End and Database**
+
+<a href="https://nodejs.org/en/docs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs" width="40" height="40"/> </a>
+<a href="https://docs.djangoproject.com/en/3.1/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" alt="django" width="40" height="40"/> </a>
+<a href="https://docs.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="mongodb" width="40" height="40"/> </a>
+<a href="https://firebase.google.com/docs" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" alt="firebase" width="40" height="40"/> </a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
+
+**Other Skills**
+
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+<a href="https://docs.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="docker" width="40" height="40"/> </a>
+<a href="https://jupyter.org/documentation" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png" alt="jupyter" width="40" height="40"/> </a>
+<a href="https://code.visualstudio.com/docs" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="vscode" width="40" height="40"/> </a>
+<a href="https://learning.postman.com/docs/getting-started/introduction/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/2676579/34940598-17cc20f0-f9be-11e7-8c6d-f0190d502d64.png" alt="postman" width="40" height="40"/> </a>
+<a href="https://docs.genymotion.com/desktop/3.0/" target="_blank" rel="noreferrer"> <img src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/512/genymotion-icon.png" alt="genymotion" width="40" height="40"/> </a>
+
+<br/>
+<summary>
+  <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji>
+  <strong>𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜 : </strong>
+</summary>
+<br>
+<p align="left">
+  <a href="https://github.com/MidhaShrey">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=MidhaShrey&show_icons=true&hide_border=true&title_color=94b4a4&icon_color=FFFFFF&text_color=FFFFFF&bg_color=000000&count_private=true&include_all_commits=true"/>
+  </a>
+  <a href="https://github.com/MidhaShrey">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MidhaShrey&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
+  </a>
+</p>
+<br>
+<p align="center">
+  <img align="" height='130px' src="https://github-readme-stats.vercel.app/api?username=MidhaShrey&hide_title=true&show_icons=true&show=stars,issues&count_private=true&include_all_commits=true&line_height=21&bg_color=000&theme=radical&text_color=C300FF&icon_color=3D33FF">
+</p>
+<br>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MidhaShrey&theme=monokai&title=MultiLanguage,Follower,Issues,Stars" />
+</p>
+<h2 align="center">Github's Contribution</h2>
+<br/>
 <p align="center">
   <img src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
----
 ## 📬 Connect With Me
 
 <p>
@@ -112,8 +113,9 @@
   </a>
 </p>
 <br/><br/><br/>
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?color=62F7F3&size=28&lines=Developer;Lets+Build+Together!&center=true&width=380&height=45">
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Developer;Lets+Build+Together!&center=true&width=380&height=45&color=62F7F3">
   </a>
-</h1>
+</p>
