@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?color=62F7F3&size=25&lines=Hey+There!+👋;I'm+Shrey+Midha;Full+Stack+Developer;Bug+Slayers+Community;">
@@ -21,10 +21,17 @@
 <!--[![Medium Badge](https://img.shields.io/badge/-@raghav.dhingra15-03a57a?style=social&labelColor=black&logo=Medium&link=https://medium.com/@raghav.dhingra15)](https://medium.com/@raghav.dhingra15)-->
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
-# Hello Everyone <img height="60" src="https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif">
+# Hello Everyone `<img height="60" src="https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif">`
 
 Hey Everyone I am Shrey Midha,B.Tech Computer Science and Engineering Graduate, and currently working on my Community "Bug Slayers".My job is to develop Robust,resposnsive and interactive Web and Mobile Apps that will help you in growing your business. I have 4+ years of experience in C++, 2+ years in Python  beside this I am trying to learn Cyber Security as a side hustle and my current focus is to do some contribution in the Cyber Security Domain.
+
 >>>>>>> parent of e4dd5c3 (Update README.md)
+>>>>>>>
+>>>>>>
+>>>>>
+>>>>
+>>>
+>>
 
 <br/>
 <br/>
