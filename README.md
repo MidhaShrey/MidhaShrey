@@ -1,13 +1,12 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?color=00b300&size=28&lines=Hey+There!+👋;I'm+Shrey+Midha;Full+Stack+Developer;Bug+Slayers+Community;">
+    <img src="https://readme-typing-svg.herokuapp.com?color=62F7F3&size=28&lines=Hey+There!+👋;I'm+Shrey+Midha;Full+Stack+Developer;Bug+Slayers+Community;">
   </a>
 </h1>
 <br/>
 <img align="right" alt="Coding GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="420" height="280" />
 ### 👨‍💻 About Me
-
-* 🔭 I'm currently working on my Community **"Bug Slayers"**
+* 🔭 I'm currently working as Developer
 * 🌱 I'm currently learning **Cyber Security**
 * 👯 I'm looking to collaborate on **Web & Mobile App Projects**
 * 💼 **B.Tech CSE Graduate** | Full Stack Developer
@@ -19,7 +18,6 @@
 <br/>
 <br/>
 ---
-
 <p align="center">
   <img alt="profile views" src="https://komarev.com/ghpvc/?username=MidhaShrey&style=flat&color=brightgreen"> •
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/MidhaShrey?label=Followers&style=social"> •
@@ -37,7 +35,6 @@
   </a>
 </p>
 ---
-
 ## 🔥 GitHub Streak
 
 <p align="center">
@@ -46,7 +43,6 @@
   </a>
 </p>
 ---
-
 ## 🛠️ Languages & Tools
 
 **Languages**
@@ -86,15 +82,14 @@
 
 <p align="left">
   <a href="https://github.com/MidhaShrey">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=MidhaShrey&show_icons=true&hide_border=true&title_color=00b300&icon_color=3D33FF&text_color=FFFFFF&bg_color=000000&count_private=true&include_all_commits=true"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=MidhaShrey&show_icons=true&hide_border=true&title_color=62F7F3&icon_color=3D33FF&text_color=FFFFFF&bg_color=000000&count_private=true&include_all_commits=true"/>
   </a>
   <a href="https://github.com/MidhaShrey">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MidhaShrey&text_color=FFFFFF&bg_color=000000&title_color=00b300&langs_count=10&layout=compact&hide_border=true" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MidhaShrey&text_color=FFFFFF&bg_color=000000&title_color=62F7F3&langs_count=10&layout=compact&hide_border=true" />
   </a>
 </p>
 <br/>
 ![trophy](https://github-profile-trophy.vercel.app/?username=MidhaShrey&theme=monokai&title=MultiLanguage,Follower,Stars,Commits)
-
 ---
 
 ## 🐍 GitHub Contribution
@@ -103,7 +98,6 @@
   <img src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 ---
-
 ## 📬 Connect With Me
 
 <p>
@@ -118,9 +112,8 @@
   </a>
 </p>
 <br/><br/><br/>
-
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Developer&center=true&width=380&height=45&color=62F7F3">
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?color=62F7F3&size=28&lines=Developer;Lets+Build+Together!&center=true&width=380&height=45">
   </a>
-</p>
+</h1>
