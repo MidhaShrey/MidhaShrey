@@ -1,8 +1,3 @@
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6A38F7&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Shrey+Midha+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%9A%80;Bug+Slayers+Community+Lead+%F0%9F%90%9B;Cyber+Security+Enthusiast+%F0%9F%94%90" alt="Typing SVG" />
-  </a>
-</h1>
 <p align="center">
   <a href="https://www.linkedin.com/in/midhashrey/">
     <img src="https://img.shields.io/badge/LinkedIn-ShreyMidha-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -17,25 +12,29 @@
     <img src="https://img.shields.io/badge/Portfolio-midhashrey.github.io-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
   </a>
 </p>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=MidhaShrey&style=for-the-badge&color=6A38F7" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/MidhaShrey?label=Followers&style=for-the-badge&color=6A38F7" alt="Followers" />
 </p>
+
 ---
 
 <img align="right" alt="Coding GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="420" height="270" />
+
 ## 👨‍💻 About Me
 
-* 🎓 **B.Tech** in Computer Science & Engineering
-* 🚀 Currently leading my community **Bug Slayers**
-* 💼 Building **Robust, Responsive & Interactive** Web and Mobile Apps
-* 🔭 Currently exploring **Cyber Security** as a side hustle
-* 🌱 Always learning **Neural Networks & System Design**
-* 👯 Open to collaborate on **Data Science & Open Source**
-* ⚡ Fun fact: *Think Twice Before Code*
-* 😄 Pronouns: **He / Him / His**
+- 🎓 **B.Tech** in Computer Science & Engineering
+- 🚀 Currently leading my community **Bug Slayers**
+- 💼 Building **Robust, Responsive & Interactive** Web and Mobile Apps
+- 🔭 Currently exploring **Cyber Security** as a side hustle
+- 🌱 Always learning **Neural Networks & System Design**
+- 👯 Open to collaborate on **Data Science & Open Source**
+- ⚡ Fun fact: *Think Twice Before Code*
+- 😄 Pronouns: **He / Him**
 
 <br clear="right"/>
+
 ---
 
 ## 🛠️ Languages & Technologies
@@ -51,11 +50,11 @@
   </a>  
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript">
     <img height="45" width="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript" />
-  </a>  
-  <a href="https://dart.dev/guides" title="Dart">
-    <img height="45" width="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png" alt="Dart" />
+  </a>
+  <img height="45" width="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="Java" />
   </a>
 </p>
+
 ### 🎨 Frontend
 
 <p align="left">
@@ -67,14 +66,12 @@
   </a>  
   <a href="https://reactjs.org/" title="React">
     <img height="45" width="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React" />
-  </a>  
-  <a href="https://flutter.dev/" title="Flutter">
-    <img height="45" width="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" alt="Flutter" />
-  </a>  
+  </a>   
   <a href="https://getbootstrap.com/" title="Bootstrap">
     <img height="45" width="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap" />
   </a>
 </p>
+
 ### ⚙️ Backend & Databases
 
 <p align="left">
@@ -86,14 +83,12 @@
   </a>  
   <a href="https://docs.mongodb.com/" title="MongoDB">
     <img height="45" width="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="MongoDB" />
-  </a>  
-  <a href="https://firebase.google.com/docs" title="Firebase">
-    <img height="45" width="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" alt="Firebase" />
-  </a>  
+  </a>
   <a href="https://www.mysql.com/" title="MySQL">
     <img height="45" width="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL" />
   </a>
 </p>
+
 ### 🧰 Tools & DevOps
 
 <p align="left">
@@ -113,6 +108,7 @@
     <img height="45" width="45" src="https://user-images.githubusercontent.com/2676579/34940598-17cc20f0-f9be-11e7-8c6d-f0190d502d64.png" alt="Postman" />
   </a>
 </p>
+
 ---
 
 ## 📊 GitHub Stats
@@ -122,26 +118,27 @@
     
   <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MidhaShrey&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 </p>
+
 <p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=MidhaShrey&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   </a>
 </p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MidhaShrey&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
-</p>
+
 ---
 
 ## 🐍 Contribution Graph
 
+
+```
 <p align="center">
   <img src="https://raw.githubusercontent.com/MidhaShrey/MidhaShrey/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
+```
+
+
 ---
 
 <p align="center">
   <i>✨ "The best error message is the one that never shows up." — Thomas Fuchs</i>
-</p>
-<p align="center">
-  Made with ❤️ by <a href="https://github.com/MidhaShrey">Shrey Midha</a>
 </p>
