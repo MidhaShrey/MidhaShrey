@@ -71,10 +71,7 @@
   </a>  
   <a href="https://reactjs.org/" title="React">
     <img height="45" width="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React" />
-  </a>  
-  <a href="https://flutter.dev/" title="Flutter">
-    <img height="45" width="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" alt="Flutter" />
-  </a>  
+  </a>   
   <a href="https://getbootstrap.com/" title="Bootstrap">
     <img height="45" width="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap" />
   </a>
